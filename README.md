@@ -2,5 +2,5 @@
 - 👀 I’m interested in **Front-End Development, UI/UX Design, and Open Source Projects**  
 - 🌱 I’m currently learning **React, Next.js, and Advanced JavaScript Concepts**  
 - 💞️ I’m looking to collaborate on **Web Development Projects, UI/UX Design, and Open Source Contributions**  
-- 😄 Pronouns: **He/Him**  
+- 😄 Pronouns: **He**  
 - ⚡ Fun fact: **I love coding challenges, and I can turn coffee into clean code! ☕💻**  
